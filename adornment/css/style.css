@@ -41,7 +41,7 @@ header {
 	
 }
 
-#name {
+#logo {
 	float: left;
 	letter-spacing: 2px ;
 	color: white;
@@ -161,4 +161,79 @@ header {
     padding: 0 20px;
     text-align: justify;
     line-height: 21px;
+}
+/*CONTENT*/
+.content {
+	width: 630px;
+	float: left;
+	
+}
+section {
+    background-color: #ffffff;
+    padding-top: 21px;
+    margin-bottom: 25px;
+    margin-left: 8px;
+}
+section h2 {
+    height: 51px;
+    width: 578px;
+    background-color: #01bbec;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: none;
+    padding: 0 22px;
+    font-size: 21px;
+}
+.author{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	margin-bottom: 0px;
+}
+section p {
+	padding-left: 20px;
+	line-height: 20px;
+	margin-bottom: 12px;
+}
+
+main {
+	margin-left: 40px;
+	margin-bottom: 78px;
+}
+main a {
+	text-decoration: none;
+}
+
+.links {
+	display: block;
+	margin-top: 20px;
+	width: 100px;
+	height: 20px;
+	background-color: #11c6f5;
+	color: #ffffff;
+	border-radius: 4px;
+	text-align: center;
+}
+.section-content {
+	padding-bottom: 40px;
+}
+	.continue{
+	display: block;
+	margin-top: 20px;
+	width: 100px;
+	height: 20px;
+	background-color: #11c6f5;
+	color: #ffffff;
+	border-radius: 4px;
+	text-align: center;
+}
+/*FOOTER*/
+footer {
+	clear:both;
+	height: 68px;
+	line-height: 68px;
+	text-align: center;
+	border-top: 1px solid #dedede;
 }
