@@ -92,7 +92,7 @@ header {
 	color: @link_color;
 	font-weight: bold;
 }
-.nav_item li {
+.nav_item {
 	border-right: 1px solid #e2e2e1;
 }
 
@@ -111,7 +111,7 @@ header {
   text-decoration:none;
 
 }
-.nav_item a:hover {
+.nav_link a:hover {
 	text-decoration: underline;
     height: 38px;
 }
@@ -123,9 +123,11 @@ header {
 	float: left;
 	
 }
-.sidebar div {
+.sidebar{
+	div {
 	padding-top: 20px;
 	background-color: @main_color;
+}
 }
 .sidebar h2,.content h2 {
 	font-size: 1.8em;
@@ -197,7 +199,7 @@ section p {
 	margin-bottom: 12px;
 }
 
-main {
+content{
 	margin-left: 40px;
 	margin-bottom: 78px;
 }
@@ -205,7 +207,7 @@ main a {
 	text-decoration: none;
 }
 
-.links {
+.more_link {
 	display: block;
 	margin-top: 20px;
 	width: 100px;
