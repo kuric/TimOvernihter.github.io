@@ -1,0 +1,26 @@
+/* ALL */
+* {
+	padding: 0;
+	margin: 0;
+}
+.nav_menu{
+	background-color: #262728;
+	border-top: 27px solid #000000;
+}
+.nav_list{
+	list-style-type: none;
+	margin: 0px 150px;
+	padding-top: 19px;
+	padding-bottom: 19px;
+}
+.nav_item{
+	font-size: 20px;
+	padding: 20px;
+	font-family: "Times New Roman";
+	text-decoration: none;
+	color: #ffffff;
+}
+.nav_item:hover{
+	background-color: #474b4f;
+	background-size: 1000px 100px;
+}
