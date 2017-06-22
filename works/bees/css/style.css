@@ -75,3 +75,6 @@ body{
 	width: 803px;
     height: 500px;
 }
+.main_info{
+	float: left;
+}
