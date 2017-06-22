@@ -3,6 +3,11 @@
 	padding: 0;
 	margin: 0;
 }
+body{
+	background-color:#f7f7f7;
+
+	/*NAV*/
+}
 .nav_menu{
 	background-color: #262728;
 	border-top: 27px solid #000000;
@@ -13,14 +18,60 @@
 	padding-top: 19px;
 	padding-bottom: 19px;
 }
-.nav_item{
+.nav_link{
 	font-size: 20px;
 	padding: 20px;
 	font-family: "Times New Roman";
 	text-decoration: none;
 	color: #ffffff;
 }
-.nav_item:hover{
+.nav_link:hover{
 	background-color: #474b4f;
 	background-size: 1000px 100px;
+}
+.left_block{
+	text-align: justify;
+	float: left;
+	width: 223px;
+	background-color: #ffffff;
+	margin:27px 165px;
+	padding: 0px 15px;
+}
+.top_title{
+	font-size: 20px;
+	padding-bottom: 15px;
+    padding-top: 15px;
+}
+.not_afraid{
+	 margin-top: 0.5em;
+}
+.right_block{
+	text-align: justify;
+	float: right;
+	width: 223px;
+	background-color: #ffffff;
+	margin:27px 165px;
+	padding: 0px 15px;
+}
+.top_title{
+	font-size: 20px;
+	padding-bottom: 15px;
+    padding-top: 15px;
+}
+.not_afraid{
+	 margin-top: 0.5em;
+}
+.bee_right{
+	margin-top: 10px;
+	width: 225px;
+	height: 140px;
+}
+.bee_below{
+	margin-top: 20px;
+	width: 225px;
+	height: 140px;
+}
+.bee_center{
+	width: 803px;
+    height: 500px;
 }
