@@ -1,0 +1,29 @@
+/*1*/
+.red {
+  color: red;
+}
+p {
+  color: red;
+}
+/*2*/
+.blue {
+  color: red;
+}
+p {
+  color: red;
+  /*3*/
+}
+.green {
+  color: green;
+}
+p {
+  color: green;
+}
+/*1*/
+p {
+  height: 200px;
+}
+/*2*/
+p {
+  width: 200px;
+}
