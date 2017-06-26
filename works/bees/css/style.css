@@ -32,12 +32,21 @@ body{
     background-color: #474b4f;
     color: #ffffff;
 }
-.left_block{
-	text-align: justify;
+.left_block {
+    text-align: justify;
     float: left;
-    width: 198px;
+    width: 210px;
     background-color: #ffffff;
-    margin: 32px 133px;
+    margin: 30px 0px 0 133px;
+    padding: 2px 20px;
+    font-size: 13px;
+}
+.right_block {
+    text-align: justify;
+    float: right;
+    width: 210px;
+    background-color: #ffffff;
+    margin: 30px 350px 0 0;
     padding: 2px 20px;
     font-size: 13px;
 }
@@ -49,18 +58,9 @@ body{
 .not_afraid{
 	 margin-top: 0.5em;
 }
-.right_block{
-	height: 2215px;
-	text-align: justify;
-    float: right;
-    width: 223px;
-    background-color: #ffffff;
-    margin: -2240px 35px;
-    padding: 0px 15px;
-}
-.top_title{
-	font-size: 20px;
-	padding-bottom: 15px;
+.top_title {
+    font-size: 18px;
+    padding-bottom: 3px;
     padding-top: 15px;
 }
 .not_afraid{
@@ -90,3 +90,16 @@ body{
 	width: 971px;
     height: 500px;
 }
+.main_info {
+    float: left;
+    width: 600px;
+    background-color: #ffffff;
+    margin-top: 30px;
+}
+.main_title {
+    font-size: 21px;
+}
+.main_p {
+    font-size: 16px;
+    padding-top: 10px;
+  }
