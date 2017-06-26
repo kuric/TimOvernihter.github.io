@@ -55,7 +55,7 @@ body{
 	padding-bottom: 15px;
     padding-top: 15px;
 }
-.not_afraid{
+.side_text{
 	 margin-top: 0.5em;
 }
 .top_title {
@@ -63,13 +63,14 @@ body{
     padding-bottom: 3px;
     padding-top: 15px;
 }
-.not_afraid{
+.side_text{
 	 margin-top: 0.5em;
 }
 .bee_right{
-	margin-top: 10px;
-	width: 225px;
-	height: 140px;
+	margin-top: 18px;
+    width: 210px;
+    height: 168px;
+    display: inline;
 }
 .bee_below{
 	margin-top: 20px;
@@ -79,12 +80,12 @@ body{
 .bee_center{
 	width: 803px;
     height: 500px;
+    display: inline;
 }
 .bee_big{
-	width: 980px;
-    height: 600px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+	width: 600px;
+    display: inline;
+    height: 445px;
 }
 .bee_big_2{
 	width: 971px;
@@ -104,3 +105,8 @@ body{
     font-size: 16px;
     padding-top: 10px;
   }
+.bottom_title{
+	font-size: 20px;
+	padding-bottom: 15px;
+    padding-top: 18px;
+}
