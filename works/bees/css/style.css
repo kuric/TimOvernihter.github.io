@@ -72,7 +72,7 @@ body{
     display: inline;
 }
 .bee_center{
-	width: 803px;
+	width: 600px;
     height: 500px;
     display: inline;
 }
@@ -82,7 +82,7 @@ body{
     height: 445px;
 }
 .bee_big_2{
-	width: 971px;
+	width: 600px;
     height: 500px;
 }
 .main_info {
@@ -142,7 +142,7 @@ body{
 #wrapper_footer{
     background-color:#262728;
     height: 202px;
-    float: right;
+    clear: both;
 }
 .copyright{
     text-align: center;
