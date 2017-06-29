@@ -37,16 +37,16 @@ body{
     float: left;
     width: 210px;
     background-color: #ffffff;
-    margin: 30px 0px 0 133px;
-    padding: 2px 20px;
+    margin: 30px 0px 0 0;
+    padding: 7px 20px;
     font-size: 13px;
 }
 .right_block {
     text-align: justify;
-    float: right;
+    float: left;
     width: 210px;
     background-color: #ffffff;
-    margin: 30px 350px 0 0;
+    margin: 30px 0 0 0;
     padding: 2px 20px;
     font-size: 13px;
     padding-bottom: 184px;
@@ -151,4 +151,7 @@ body{
     padding-bottom: 10px;
     font-size: 15px;
     background-color: #262728;
+}
+#wrapper_aside {
+    margin: 0px 0 0 134px;
 }
