@@ -159,7 +159,7 @@ body{
     height: 281px;
     clear: both;
     width: 1366px;
-    margin-left: 0;
+    margin: auto;
     padding-left: 130px;
 }
 .copyright{
@@ -171,8 +171,7 @@ body{
     background-color: #262728;
 }
 .wrapper_aside {
-    margin-left: 130px;
-    margin-right: 347px;
+    margin: auto;
     background-color: #ffffff;
 }
 .box_container {
