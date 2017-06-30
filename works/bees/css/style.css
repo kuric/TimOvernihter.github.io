@@ -6,11 +6,11 @@
 body{
     background-color:#f7f7f7;
 
-    /*NAV*/
 }
 .top_header{
     margin: auto;
 }
+    /*NAV*/
 .nav_menu {
     background-color: #262728;
 }
@@ -29,6 +29,7 @@ body{
 .nav_item a:hover{
     background-color: #474b4f;
 }
+/*BLOCKS*/
 .left_block {
     text-align: justify;
     float: left;
@@ -46,14 +47,17 @@ body{
     font-size: 13px;
     padding-bottom: 305px;
 }
+/*TEXT MARGIN*/
 .side_text{
      margin-top: 0.5em;
 }
+/*TEXT TITLE*/
 .top_title {
     font-size: 18px;
     padding-bottom: 3px;
     padding-top: 15px;
 }
+/*PICTURES' PROPERTIES*/
 .bee_right{
     margin-top: 18px;
     width: 210px;
@@ -80,6 +84,7 @@ body{
     width: 600px;
     height: 500px;
 }
+/*MAIN*/
 .main_info {
     float: left;
     width: 600px;
@@ -94,6 +99,7 @@ body{
     font-size: 16px;
     padding-top: 10px;
   }
+/*BOTTOM CONTAINER*/
 .bottom_title{
     font-size: 20px;
     padding-bottom: 15px;
