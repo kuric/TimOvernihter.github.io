@@ -1,12 +1,12 @@
 /* ALL */
 * {
-	padding: 0;
-	margin: 0;
+    padding: 0;
+    margin: 0;
 }
 body{
-	background-color:#f7f7f7;
+    background-color:#f7f7f7;
 
-	/*NAV*/
+    /*NAV*/
 }
 .nav_menu {
     background-color: #262728;
@@ -52,7 +52,7 @@ body{
     padding-bottom: 305px;
 }
 .side_text{
-	 margin-top: 0.5em;
+     margin-top: 0.5em;
 }
 .top_title {
     font-size: 18px;
@@ -60,7 +60,7 @@ body{
     padding-top: 15px;
 }
 .bee_right{
-	margin-top: 18px;
+    margin-top: 18px;
     width: 210px;
     height: 168px;
     display: inline;
@@ -72,17 +72,17 @@ body{
     display: inline;
 }
 .bee_center{
-	width: 600px;
+    width: 600px;
     height: 500px;
     display: inline;
 }
 .bee_big{
-	width: 600px;
+    width: 600px;
     display: inline;
     height: 445px;
 }
 .bee_big_2{
-	width: 600px;
+    width: 600px;
     height: 500px;
 }
 .main_info {
@@ -101,12 +101,12 @@ body{
     padding-top: 10px;
   }
 .bottom_title{
-	font-size: 20px;
-	padding-bottom: 15px;
+    font-size: 20px;
+    padding-bottom: 15px;
     padding-top: 18px;
 }
 .side_text_below{
-	padding-top: 10px;
+    padding-top: 10px;
 }
 .box_1 {
     text-align: center;
@@ -123,28 +123,28 @@ body{
     background-color: #ffffff;
 }
 .box_3,.box_4{
-	text-align: center;
-	float: right;
-	width: 300px;
-	margin: 25px 45px;
-	background-color: #ffffff;
+    text-align: center;
+    float: right;
+    width: 300px;
+    margin: 25px 45px;
+    background-color: #ffffff;
 }
 .box_h2{
-	font-size: 25px;
+    font-size: 25px;
 }
 .box_down{
-	border-top: 1px solid #000000;
-	padding-top: 5px;
+    border-top: 1px solid #000000;
+    padding-top: 5px;
 }
 .box_p{
-	padding-bottom: 5px;
+    padding-bottom: 5px;
 }
 .copyright{
-	text-align: center;
-	color: #ffffff;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
 }
 #wrapper_footer{
     background-color:#262728;
@@ -165,4 +165,7 @@ body{
 }
 .box_container{
     margin: 134px;
+}
+.clearfix{
+    clear: both;
 }
