@@ -8,6 +8,9 @@ body{
 
     /*NAV*/
 }
+.top_header{
+    margin: auto;
+}
 .nav_menu {
     background-color: #262728;
 }
